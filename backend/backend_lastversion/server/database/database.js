@@ -4,7 +4,7 @@ const db = pgp({
     password: 'postgres',
     host: 'localhost',
     port: 5432,
-    database: 'postgres'
+    database: 'Livraria'
 });
 
 module.exports = db;
